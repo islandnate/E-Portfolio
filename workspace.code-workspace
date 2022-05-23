@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "E-Portfolio",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "..\\assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "E-Portfolio"
+	}
+}

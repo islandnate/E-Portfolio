@@ -115,10 +115,12 @@ nav{
     padding: 8px 20px;
     border-radius: 100px;
     color: white;
+    transition: all 300ms ease;
 }
 
 .nav__link--anchor-primary:hover{
     background-color: #5ea9ff;
+
 }
 
 .personal__logo{
@@ -190,9 +192,10 @@ nav{
 }
 
 .about-me__link{
-    font-style: 20px;
+    font-size: 20px;
     color: black;
     padding: 0 16px; 
+    transition: all 300ms ease;
 }
 
 .about-me__links{
@@ -212,10 +215,12 @@ nav{
 
 .about-me__links{
     animation: fade-up 650ms 800ms backwards;
+    
 }
 
 .about-me__link:hover{
-    color: blue;
+    color: #2968b8;
+    font-size: 24px;
 }
 
 .about-me__img--container{
